@@ -2,6 +2,7 @@
 Full Fledged Restaurant Management System
 ==========================================
 
+## Project Title
 This project is a Django-based web application that utilizes the latest version of Bootstrap for responsive design. The application is designed to provide a modern look and feel, enhancing the overall user experience.
 
 ## Dependencies
