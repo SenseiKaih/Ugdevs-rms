@@ -10,4 +10,4 @@ urlpatterns = [
 
 urlpatterns = [
     path('', views.my_view, name='my_view'),
-]   
+]
