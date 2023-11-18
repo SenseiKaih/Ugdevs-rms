@@ -5,6 +5,16 @@ Full Fledged Restaurant Management System
 ## Project Title
 This project is a Django-based web application that utilizes the latest version of Bootstrap for responsive design. The application is designed to provide a modern look and feel, enhancing the overall user experience.
 
+## Prerequisites
+Before you begin, ensure you have met the following requirements:
+
+* You have installed the latest version of Python and pip. If not, you can download Python [here](https://www.python.org/downloads/) and pip will be installed with Python. After installation, you can verify Python and pip by using the following commands:
+
+```bash
+python --version
+pip --version
+```
+
 ## Dependencies
 The project has several Python dependencies which are listed in the requirements.txt file. Some of the key dependencies include:
 - asgiref==3.7.2
@@ -33,8 +43,3 @@ The app should be accessible at http://localhost:8000/ in your web browser.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-MIT License
-Copyright (c) [2023] [UgDevsRms]
-```
